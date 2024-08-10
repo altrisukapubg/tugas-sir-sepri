@@ -1,0 +1,51 @@
+body {
+    background-color: #aaf0d1; 
+}
+
+h1 {
+    text-align: center;
+    margin-top: 20px;
+}
+
+.container {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 80vh; 
+}
+
+.box {
+    width: 100px;
+    height: 100px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin: 10px;
+    font-size: 36px;
+    color: white;
+    font-family: Arial, sans-serif;
+}
+
+.I {
+    width: 100px;
+    height: 100px;
+    font-size: 100px;
+    display: flex 1000vh;
+    background-color: red;
+}
+
+.G {
+    width: 100px;
+    height: 100px;
+    font-size: 100px;
+    display: flex 1000vh;
+    background-color: blue;
+}
+
+.S {
+    width: 100px;
+    height: 100px;
+    font-size: 100px;
+    display: flex 1000vh;
+    background-color: green;
+}
